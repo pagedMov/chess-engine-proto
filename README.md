@@ -1,1 +1,1 @@
-# chess-engine-proto
+Working on a chess engine. This is a serious work in progress and all of this code is subject to change.
